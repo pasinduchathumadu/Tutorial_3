@@ -1,3 +1,0 @@
-2022.07.14 18:07:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\ACER\OneDrive\Documents\javascript\Q1-Q5\.metals\lsp.trace.json or C:\Users\ACER\AppData\Local\scalameta\metals\cache\lsp.trace.json
-2022.07.14 18:07:38 INFO  logging to file C:\Users\ACER\OneDrive\Documents\javascript\Q1-Q5\.metals\metals.log
-2022.07.14 18:07:38 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\ACER\OneDrive\Documents\javascript\Q1-Q5' for client Visual Studio Code 1.69.1.
