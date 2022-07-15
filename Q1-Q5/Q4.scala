@@ -1,4 +1,3 @@
-import scala.io.StdIn.readInt
 object Q4{
     def main(args: Array[String]):Unit ={
         println("Total wholesale cost:"+total_wholesale_cost(60))

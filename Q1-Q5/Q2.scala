@@ -1,4 +1,3 @@
-import scala.io.StdIn.readInt
 object Q2{
     def main(args: Array[String]):Unit ={
         val celsius:Double=35.0
