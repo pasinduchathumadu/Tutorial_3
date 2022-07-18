@@ -6,4 +6,5 @@ object Q2{
     def convert(temp:Double):Double={
         return temp*1.8000+32.00  //return fahrenheit
     }
+    //The answer is:95.0
 }

@@ -99,3 +99,57 @@ WARNING: Unmatched cancel notification for request id 446
 2022.07.17 20:54:43 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
 Jul 17, 2022 11:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 687
+2022.07.18 11:07:15 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\.metals\lsp.trace.json or C:\Users\ACER\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.18 11:07:18 INFO  logging to file C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\.metals\metals.log
+2022.07.18 11:07:18 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5' for client Visual Studio Code 1.69.1.
+2022.07.18 11:07:19 INFO  time: initialize in 1.1s
+2022.07.18 11:07:23 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.18 11:07:23 WARN  Build server is not auto-connectable.
+2022.07.18 11:07:23 WARN  no build tool detected in workspace 'C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.18 11:07:25 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:07:29 INFO  no build target found for C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.18 11:07:32 INFO  time: code lens generation in 6.84s
+2022.07.18 11:07:32 INFO  time: code lens generation in 6.84s
+2022.07.18 11:07:59 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:00 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:02 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:05 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:08 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:11 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:17 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:19 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
+2022.07.18 11:08:22 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+2022.07.18 11:08:30 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+2022.07.18 11:08:32 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+2022.07.18 11:08:39 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+2022.07.18 11:08:41 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+2022.07.18 11:08:43 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:08:53 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:08:56 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:01 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:02 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:05 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:08 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:11 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:09:14 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:10:14 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
+2022.07.18 11:10:17 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q2.scala
+2022.07.18 11:10:28 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q2.scala
+2022.07.18 11:10:34 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q2.scala
+2022.07.18 11:10:39 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q2.scala
+2022.07.18 11:10:40 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:10:49 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:10:51 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:10:54 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:10:58 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:00 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:05 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:08 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:10 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:12 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:14 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:16 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:18 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:21 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:25 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q1.scala
+2022.07.18 11:11:31 INFO  shutting down Metals

@@ -1,7 +1,7 @@
 object Q5{
     def main(args: Array[String]): Unit ={
         val time:Int=easy_pace(2)+easy_pace(2)+tempo(3)
-        println("The total running time:"+time+" min")
+        println("The total running time:"+time+" min")  //The answer is :53
     }
     def easy_pace(x:Int):Int={
         return x*8

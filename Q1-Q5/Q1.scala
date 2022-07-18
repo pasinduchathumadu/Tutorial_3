@@ -4,4 +4,5 @@ object Q1{
        val area:Double=math.Pi*r*r  //This is the formula to compute the area
        println("Area of disk:"+area) //print the area
     }
+                           //The answer is:78.53981633974483
 }
