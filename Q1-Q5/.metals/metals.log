@@ -97,3 +97,5 @@ WARNING: Unmatched cancel notification for request id 446
 2022.07.17 20:54:27 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q3.scala
 2022.07.17 20:54:32 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q4.scala
 2022.07.17 20:54:43 WARN  no build target for: C:\Users\ACER\OneDrive\Documents\GitHub\Tutorial_3\Q1-Q5\Q5.scala
+Jul 17, 2022 11:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 687
